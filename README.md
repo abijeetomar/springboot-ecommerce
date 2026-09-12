@@ -2,10 +2,6 @@
 
 A full-stack E-Commerce application: a **Java / Spring Boot** REST API backend paired with a **React** frontend, in a single repository. The backend implements product catalog management and order placement/tracking; the frontend (prebuilt, provided as part of the learning course) is used to interact with and demonstrate the API.
 
-## 🚧 Project Status
-
-This is a **learning project and still under active development** — not a production-ready, full-featured e-commerce app. Core backend product and order flows are implemented; the frontend is prebuilt (not authored by me) and used to demo the API. Features like authentication, payments, and a cart are not yet built (see [Future Improvements](#-future-improvements)).
-
 ## 🚀 About The Project
 
 SpringEcom is being built to understand and apply real-world backend concepts — REST APIs, layered architecture, Spring Data JPA, entity relationships, and DTO-based data transfer.
@@ -283,6 +279,11 @@ springecom/
 - Writing custom JPQL queries for multi-field search
 - Transforming between entities and DTOs (request → entity → response)
 - Testing REST APIs with Postman
+
+- ## 🚧 Project Status
+
+This is a **learning project and still under active development** — not a production-ready, full-featured e-commerce app. Core backend product and order flows are implemented; the frontend is prebuilt (not authored by me) and used to demo the API. Features like authentication, payments, and a cart are not yet built (see [Future Improvements](#-future-improvements)).
+
 
 ## 👨‍💻 Author
 
